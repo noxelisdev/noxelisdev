@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/infinity_54_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infinity_54_yt" height="30" width="40" /></a>
 <a href="https://fb.com/infinity54officiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="infinity54officiel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/infinity_54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infinity_54" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCwLBLiHRYNRyYY937cwMdjA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infinity_54" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
