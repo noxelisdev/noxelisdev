@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/infinity_54_yt" target="blank"><img src="https://img.shields.io/twitter/follow/infinity_54_yt?logo=twitter&style=for-the-badge" alt="infinity_54_yt" /></a> </p>
 
-- 🔭 I’m currently working on [Tales of Selenia](https://www.infinity54.fr/en/games/talesofselenia).
+- 🔭 I’m currently working on [_Tales of Selenia_](https://www.infinity54.fr/en/games/talesofselenia).
 
 - 👨‍💻 All of my projects are available on [my personal website](https://www.infinity54.fr/en).
 
