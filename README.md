@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/infinity_54_yt" target="blank"><img src="https://img.shields.io/twitter/follow/infinity_54_yt?logo=twitter&style=for-the-badge" alt="infinity_54_yt" /></a> </p>
 
-- 🔭 I’m currently working on [Tales of Selenia](https://www.infinity54.fr/en/games/talesofselenia)
+- 🔭 I’m currently working on [Tales of Selenia](https://www.infinity54.fr/en/games/talesofselenia).
 
-- 👨‍💻 All of my projects are available at [https://www.infinity54.fr/en](https://www.infinity54.fr/en)
+- 👨‍💻 All of my projects are available on [my personal website](https://www.infinity54.fr/en).
 
-- 📝 I regularly write articles on [my website](my website)
+- 📝 I regularly write articles on my website.
 
-- 📫 How to reach me **with the contact form of my website, if you want**
+- 📫 You can reach me with the contact form of my website, if you want!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
