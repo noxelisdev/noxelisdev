@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm InFinity54</h1>
-<h3 align="center">I'm a French developer of websites. In my free time, I'm creating some games and softwares. IT (especially development) is my passion for more than a decade now.</h3>
+<h3 align="center">I'm a IT teacher which use this free time to create some games and softwares. IT (especially development) is my passion for many years now.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinity54&label=Profile%20views&color=0e75b6&style=flat" alt="infinity54" /> </p>
 
@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available on [my personal website](https://www.infinity54.fr/en).
 
-- 📝 I regularly write articles on my website.
-
-- 📫 You can reach me with the contact form of my website, if you want!
+- 📝 I write articles on my website when there is some update on my projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
