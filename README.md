@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinity54&theme=darkhub" alt="infinity54" /></a> </p>
 
 - 🔭 I’m currently working on a game called _Tales of Selenia_.
-- 👨‍💻 All of my projects are available (on my personal website](https://www.infinity54.fr) (currently unavailable, reworking in progress).
+- 👨‍💻 All of my projects are available [on my personal website](https://www.infinity54.fr) (currently unavailable, reworking in progress).
 - 📝 I write articles on my website to keep people up-to-date on my projects.
 
 <h3 align="left">Connect with me:</h3>
