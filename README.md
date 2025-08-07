@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm InFinity!</h1>
+<h1 align="center">Hi 👋, I'm Noxelis!</h1>
 <h3 align="center">I use my free time to create some games, softwares and/or websites. IT (especially development) is my passion for many years now.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=infinity54&label=Profile%20views&color=0e75b6&style=flat" alt="infinity54" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinity54&theme=darkhub" alt="infinity54" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noxelisdev&label=Profile%20views&color=0e75b6&style=flat" alt="noxelisdev" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noxelisdev&theme=darkhub" alt="infinity54" /></a> </p>
 
 - 🔭 I’m currently working on a game called _Tales of Selenia_.
-- 👨‍💻 All of my projects are available [on my personal website](https://www.infinity54.fr) (currently unavailable, reworking in progress).
+- 👨‍💻 All of my projects are available [on my personal website](https://www.noxelis.dev) (currently unavailable, reworking in progress).
 - 📝 I write articles on my website to keep people up-to-date on my projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/infinity_54_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infinity_54_yt" height="30" width="40" /></a>
-<a href="https://fb.com/infinity54officiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="infinity54officiel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@infinity_54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infinity_54" height="30" width="40" /></a>
+<a href="https://x.com/Noxelis_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Noxelis_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@noxelis_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noxelis_dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,6 +33,6 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinity54&show_icons=true&locale=en&layout=compact&theme=dark" alt="infinity54" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noxelisdev&show_icons=true&locale=en&layout=compact&theme=dark" alt="noxelisdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinity54&show_icons=true&locale=en&theme=dark" alt="infinity54" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noxelisdev&show_icons=true&locale=en&theme=dark" alt="noxelisdev" /></p>
