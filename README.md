@@ -2,7 +2,7 @@
 <h3 align="center">I use my free time to create some games, softwares and/or websites. IT (especially development) is my passion for many years now.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noxelisdev&label=Profile%20views&color=0e75b6&style=flat" alt="noxelisdev" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noxelisdev&theme=darkhub" alt="infinity54" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noxelisdev&theme=darkhub" alt="noxelisdev" /></a> </p>
 
 - 🔭 I’m currently working on a game called _Tales of Selenia_.
 - 👨‍💻 All of my projects are available [on my personal website](https://www.noxelis.dev) (currently unavailable, reworking in progress).
