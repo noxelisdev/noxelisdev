@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **a game called Tales of Selenia for several years now**
 
-- 📝 I regularly write articles on **[https://www.noxelis.dev](https://www.noxelis.dev)**
+- 📝 I post updates about my projects on **[my personal website](https://www.noxelis.dev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
